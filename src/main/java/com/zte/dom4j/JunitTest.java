@@ -10,6 +10,7 @@ public class JunitTest {
         if(1 == number1){
             throw new RuntimeException();
         }
+        // wo shi xinjiade 
         return number1 / number2;
     }
 }
