@@ -10,7 +10,7 @@ public class JunitTest {
         if(1 == number1){
             throw new RuntimeException();
         }
-        // 我是远程库啊
+        // 我是远程库啊 这是我新加的
         return number1 / number2;
     }
 }
