@@ -11,6 +11,7 @@ public class JunitTest {
             throw new RuntimeException();
         }
         // 我是远程库啊 这是我新加的
+        // 测试
         return number1 / number2;
     }
 }
